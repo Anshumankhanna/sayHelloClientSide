@@ -1,7 +1,7 @@
 {
 	"name": "sayhelloclientside",
 	"version": "1.0.0",
-	"description": "",
+	"description": "This repo is created to test if we can load esm modules on client side",
 	"main": "index.js",
 	"keywords": [
 		"client",
