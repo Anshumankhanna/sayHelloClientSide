@@ -1,0 +1,14 @@
+{
+	"name": "sayhelloclientside",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"keywords": [
+		"client",
+		"javascript",
+		"esm"
+	],
+	"author": "",
+	"license": "MIT",
+	"type": "module"
+}
